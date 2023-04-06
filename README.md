@@ -1,4 +1,5 @@
 Deploy : https://e-commerce-redux-gold.vercel.app/
+![image](https://user-images.githubusercontent.com/7384901/230429065-4807392e-2ec8-4a4f-8970-ce6fa3b1e24c.png)
 
 
 # Getting Started with Create React App
